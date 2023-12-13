@@ -1,0 +1,12 @@
+yoshiAgroup.inc(156) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "UpdatePivo"
+yoshiAgroup.inc(118) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "yagr_AddObjectToGroup"
+yoshiAgroup.inc(315) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "yagr_ConverterValores"
+yoshiAgroup.inc(41) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "yagr_CreateNewGroup"
+yoshiAgroup.inc(80) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "yagr_DeleteGroup"
+yoshiAgroup.inc(280) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "yagr_GetCenterCoords"
+yoshiAgroup.inc(244) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "yagr_GetObjectIndex"
+yoshiAgroup.inc(258) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "yagr_GetObjectPos"
+yoshiAgroup.inc(208) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "yagr_MoveGroup"
+yoshiAgroup.inc(178) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "yagr_RemoveGroupObject"
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
